@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4657113812883132057
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 330771588300422080, guid: 9ff4146897d43d34687a99fe289e8919, type: 3}
+      propertyPath: m_text
+      value: 'World Select
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582484137954960041, guid: 9ff4146897d43d34687a99fe289e8919, type: 3}
+      propertyPath: m_Name
+      value: WorldSelectPortal
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582484137954960046, guid: 9ff4146897d43d34687a99fe289e8919, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582484137954960046, guid: 9ff4146897d43d34687a99fe289e8919, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -11.86
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582484137954960046, guid: 9ff4146897d43d34687a99fe289e8919, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582484137954960046, guid: 9ff4146897d43d34687a99fe289e8919, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582484137954960046, guid: 9ff4146897d43d34687a99fe289e8919, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582484137954960046, guid: 9ff4146897d43d34687a99fe289e8919, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582484137954960046, guid: 9ff4146897d43d34687a99fe289e8919, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582484137954960046, guid: 9ff4146897d43d34687a99fe289e8919, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582484137954960046, guid: 9ff4146897d43d34687a99fe289e8919, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582484137954960046, guid: 9ff4146897d43d34687a99fe289e8919, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582484137954960046, guid: 9ff4146897d43d34687a99fe289e8919, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6958756111082449188, guid: 9ff4146897d43d34687a99fe289e8919, type: 3}
+      propertyPath: interaction.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: WorldSelect
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9ff4146897d43d34687a99fe289e8919, type: 3}
